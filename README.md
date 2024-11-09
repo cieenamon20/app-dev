@@ -1,5 +1,7 @@
 # app-dev
-My Repository# Flipped (2010)
+My Repository
+
+# Flipped (2010)
 
 **Directed by:** Rob Reiner  
 **Based on the novel by:** Wendelin Van Draanen
@@ -27,21 +29,6 @@ My Repository# Flipped (2010)
 
 - **Self-Discovery**  
   Throughout the story, both characters learn about themselves, their families, and what it truly means to love someone.
-
-## Reception
-
-- **Critical Response**  
-  *Flipped* received generally positive reviews for its charming story and strong performances, particularly from the young lead actors.
-
-- **Audience Score**  
-  The movie has garnered a **70%** approval rating on Rotten Tomatoes, reflecting its appeal to a youthful audience.
-
----
-
-## Fun Facts
-
-- The film features a cameo by **Rebecca De Mornay**.
-- It was filmed in various locations in California, capturing the nostalgic feel of the 1960s.
 
 ---
 
